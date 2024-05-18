@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(7, 160, 231);
+}
+#diceCanvas {
+    border: 5px solid rgb(217, 161, 158);
+    border-radius: 30px;
+    text-align: center;
+    
+    padding: 90px 90px 90px 90px;
+}
